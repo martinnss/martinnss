@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @martinnss
+- 📚 I’m currently studing Industrial Engineering at the Metropolitan University of Technology (UTEM)
 - 👀 I’m interested in Data Science and Machine Learning.I'm also a bussiness strategic fanatic
 - 🌱 I’m currently learning Machine Learning on Python
 - 📫 How to reach me: martin.olivarest@utem.cl
