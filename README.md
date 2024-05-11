@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @martinnss
 - 📚 I studied Civil Industrial Engineering at the Metropolitan University of Technology (UTEM)
 - 👀 I’m interested in Data Science and Machine Learning.
-- 🌱 I’m currently learning Machine Learning on Python
+- 🌱 I’m currently learning advanced RAG types.
 - 📫 How to reach me: martin.j.olivares1@gmail.com
 
 <!---
